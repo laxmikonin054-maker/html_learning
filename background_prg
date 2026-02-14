@@ -1,0 +1,28 @@
+<html>
+
+<head>
+	<style>
+		.div-class {
+			width: 50%;
+			height: 50%;
+			background-size: 50% 50%;
+			border: 3px dotted grey;
+			background-color: rgb(179, 255, 0);
+			margin: auto;
+		}
+
+		h1 {
+			font-family: consolas;
+			color: blue;
+			text-align: center;
+		}
+	</style>
+</head>
+
+<body background="hyper-blue.jpg">
+	<div class="div-class" height="220" width="280">
+		<h1> My improved web page </h1>
+	</div>
+</body>
+
+</html>
